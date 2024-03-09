@@ -1,7 +1,7 @@
 
 # 1984 Book vs. Album: A Unique NLP Project
 
-![Title Image Placeholder](title_image_placeholder.png)
+![1984](title1984.png)
 
 ## Introduction
 
